@@ -123,13 +123,4 @@ PROJECTS:
 
 ---
 
-<div align="center">
 
-```
-"The quieter the system,
-the more you should investigate."
-```
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600">
-
-</div>
