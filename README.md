@@ -11,18 +11,22 @@
 
 ### `ACCESS GRANTED`
 
+</div>
+<div align="left">
 ```
-[+] Identity: XKeN
-[+] Role: Security Researcher
-[+] Domain: Cybersecurity / IIoT
-[+] Status: Learning. Testing. Breaking.
-[+] Location: Malaysia
+[+] Identity  : XKeN
+[+] Role      : Security Researcher
+[+] Domain    : Cybersecurity / IIoT
+[+] Status    : Learning. Testing. Breaking.
+[+] Location  : Malaysia
 ```
-
+</div>
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;Red+Team+Enthusiast;Penetration+Testing;Industrial+IoT+Security;Analyzing+Threats..." />
 
 </div>
 
+<div align="center">
 ---
 
 ## 🕶️ PROFILE
