@@ -11,7 +11,11 @@
 
 ### `ACCESS GRANTED`
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;Red+Team+Enthusiast;Penetration+Testing;Industrial+IoT+Security;Analyzing+Threats..." />
+
 </div>
+
+---
 
 ```bash
 [+] Identity  : XKeN
@@ -21,16 +25,9 @@
 [+] Location  : Malaysia
 ```
 
-<div align="center">
- 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;Red+Team+Enthusiast;Penetration+Testing;Industrial+IoT+Security;Analyzing+Threats..." />
-
-</div>
-
-<div align="center">
 ---
 
-## 🕶️ PROFILE
+# 🕶️ PROFILE
 
 ```bash
 $ whoami
@@ -48,11 +45,11 @@ $ cat mission.txt
 
 ---
 
-## ⚔️ ARSENAL
+# ⚔️ ARSENAL
 
-### Offensive Security
+## Offensive Security
 
-```
+```text
 [✓] Network Reconnaissance
 [✓] Vulnerability Assessment
 [✓] Penetration Testing
@@ -60,9 +57,9 @@ $ cat mission.txt
 [✓] Linux Security
 ```
 
-### Industrial / IoT Security
+## Industrial / IoT Security
 
-```
+```text
 [✓] IIoT Monitoring
 [✓] MQTT Security
 [✓] Node-RED Automation
@@ -72,17 +69,17 @@ $ cat mission.txt
 
 ---
 
-## 💻 TECHNOLOGIES
+# 💻 TECHNOLOGIES
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,linux,docker,react,nodejs,java,git,bash" />
 
-</p>
+</div>
 
 ---
 
-## 🖥️ TERMINAL
+# 🖥️ TERMINAL
 
 ```bash
 root@xken:~$ nmap target
@@ -91,6 +88,7 @@ Scanning...
 Ports detected.
 Services identified.
 Report generated.
+
 
 root@xken:~$ ./analyze.sh
 
@@ -103,9 +101,9 @@ STATUS: ACTIVE
 
 ---
 
-## ☠️ CURRENT OPERATIONS
+# ☠️ CURRENT OPERATIONS
 
-```
+```text
 PROJECTS:
 
 01. Industrial IoT Security Platform
@@ -116,16 +114,22 @@ PROJECTS:
 
 ---
 
-## 📡 CONNECTED SYSTEMS
+# 📡 CONNECTED SYSTEMS
 
-```
-██████████████████████
-█ SECURITY MODE: ON  █
-█ STATUS: MONITORING █
-█ THREAT LEVEL: LOW  █
-██████████████████████
+```text
+╔══════════════════════╗
+║  SECURITY MODE: ON   ║
+║  STATUS: MONITORING  ║
+║  THREAT LEVEL: LOW   ║
+╚══════════════════════╝
 ```
 
 ---
 
+<div align="center">
 
+```
+"Observe. Analyze. Defend."
+```
+
+</div>
